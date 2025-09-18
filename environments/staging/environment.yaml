@@ -1,5 +1,6 @@
 #
 # Configuration for staging environment
+# comment 1
 #
 version: 1.0
 app:
